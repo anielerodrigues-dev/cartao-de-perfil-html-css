@@ -1,4 +1,6 @@
-# Cartão de Perfil - HTML e CSS
+# 🪪 Cartão de Perfil — HTML e CSS
+
+Um cartão de perfil simples, desenvolvido para praticar e consolidar conceitos fundamentais de HTML e CSS.
 
 ## 📖 Sobre o projeto
 
@@ -28,4 +30,4 @@ Praticar os fundamentos do desenvolvimento Front-end e construir uma base sólid
 
 ---
 
-Desenvolvido por Aniele Rodrigues.
+Desenvolvido por **Aniele Rodrigues**.
